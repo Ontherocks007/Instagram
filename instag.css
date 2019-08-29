@@ -1,0 +1,44 @@
+
+.contenedor{
+    background: #D3D3D3;
+    display: -webkit-flex;
+    display: -ms-flex;
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    font-family: 'Chilanka', cursive;
+    
+}
+
+.contenedor header{
+    display: flex;
+    background: white;
+    width: 100%;
+    justify-content: center;
+}
+
+ .imagenes img{
+     width: 500px;
+    align-items: center;
+     display: flex;
+     justify-content: center;
+     overflow: hidden;
+     margin: 10px;
+}
+.foto1{
+    background: white;
+}
+.foto2{
+    background: white;
+}
+.foto3{
+    background: white;
+    border: ;}
+.foto4{
+    background: white;
+}
+
+   
+}
